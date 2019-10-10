@@ -1,1 +1,1 @@
-# ProgrammingAlgorithm
+プログラミングとアルゴリズムの課題用

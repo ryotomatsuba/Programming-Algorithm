@@ -7,6 +7,7 @@ public class Report3 {
 	private static boolean PRINT = true; // 大きなNで実行する際はfalseにする
 	private static boolean CHECK = true;
 	
+	
 	public static void  bubbleSort () {
 		// バブルソートの処理を追加する
 		for(int i=0;i<(sort.length-1);++i){
